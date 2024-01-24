@@ -1,0 +1,282 @@
+num_openness_correspondences = {1 : 'O', 2 : 'C', 3 : 'O', 4 : 'O', 5 : 'C', 6 : 'O', 7 : 'C', 8 : 'O', 9 : 'O', 10 : 'C', 11 : 'O', 12 : 'C', 13 : 'O', 14 : 'C', 15 : 'O', 16 : 'C', 17 : 'O', 18 : 'C', 19 : 'O', 20 : 'C', 21 : 'O', 22 : 'C', 23 : 'O', 24 : 'C', 25 : 'O', 26 : 'O', 27 : 'O', 28 : 'C', 29 : 'O', 30 : 'C', 31 : 'O', 32 : 'C', 33 : 'O', 34 : 'C', 35 : 'O', 36 : 'C', 37 : 'O', 38 : 'O', 39 : 'O', 40 : 'O', 41 : 'C', 42 : 'O', 43 : 'C'}
+rhyme_tone_correspondences = {'東' : 'ping', '冬' : 'ping', '鍾' : 'ping', '江' : 'ping', '支' : 'ping', '脂' : 'ping', '之' : 'ping', '微' : 'ping', '魚' : 'ping', '虞' : 'ping', '模' : 'ping', '齊' : 'ping', '佳' : 'ping', '皆' : 'ping', '灰' : 'ping', '咍' : 'ping', '真' : 'ping', '諄' : 'ping', '臻' : 'ping', '文' : 'ping', '殷':'ping','欣':'ping', '元' : 'ping', '魂' : 'ping', '痕' : 'ping', '寒' : 'ping', '桓' : 'ping', '刪' : 'ping', '山' : 'ping', '先' : 'ping', '仙' : 'ping', '蕭' : 'ping', '宵' : 'ping', '肴' : 'ping', '豪' : 'ping', '歌' : 'ping', '戈' : 'ping', '麻' : 'ping', '陽' : 'ping', '唐' : 'ping', '庚' : 'ping', '耕' : 'ping', '清' : 'ping', '青' : 'ping', '蒸' : 'ping', '登' : 'ping', '尤' : 'ping', '侯' : 'ping', '幽' : 'ping', '侵' : 'ping', '覃' : 'ping', '談' : 'ping', '鹽' : 'ping', '添' : 'ping', '咸' : 'ping', '銜' : 'ping', '嚴' : 'ping', '凡' : 'ping', '董' : 'shang', '腫' : 'shang', '講' : 'shang', '紙' : 'shang', '旨' : 'shang', '止' : 'shang', '尾' : 'shang', '語' : 'shang', '麌' : 'shang', '姥' : 'shang', '薺' : 'shang', '蟹' : 'shang', '駭' : 'shang', '賄' : 'shang', '海' : 'shang', '軫' : 'shang', '準' : 'shang', '吻' : 'shang', '隱' : 'shang', '阮' : 'shang', '混' : 'shang', '很' : 'shang', '旱' : 'shang', '緩' : 'shang', '潸' : 'shang', '產' : 'shang', '銑' : 'shang', '獮' : 'shang', '篠' : 'shang', '小' : 'shang', '巧' : 'shang', '晧' : 'shang', '哿' : 'shang', '果' : 'shang', '馬' : 'shang', '養' : 'shang', '蕩' : 'shang', '梗' : 'shang', '耿' : 'shang', '靜' : 'shang', '迥' : 'shang', '拯' : 'shang', '等' : 'shang', '有' : 'shang', '厚' : 'shang', '黝' : 'shang', '寑':'shang','寢':'shang', '感' : 'shang', '敢' : 'shang', '琰' : 'shang', '忝' : 'shang', '豏' : 'shang', '檻' : 'shang', '儼' : 'shang', '范' : 'shang', '送' : 'qu', '宋' : 'qu', '用' : 'qu', '絳' : 'qu', '寘' : 'qu', '至' : 'qu', '志' : 'qu', '未' : 'qu', '御' : 'qu', '遇' : 'qu', '暮' : 'qu', '霽' : 'qu', '祭' : 'qu', '泰' : 'qu', '卦' : 'qu', '怪' : 'qu', '夬' : 'qu', '隊' : 'qu', '代' : 'qu', '廢' : 'qu', '震' : 'qu', '稕' : 'qu', '問' : 'qu', '焮' : 'qu', '願' : 'qu', '慁' : 'qu', '恨' : 'qu', '翰' : 'qu', '換' : 'qu', '諫' : 'qu', '襉':'qu','襇':'qu', '霰' :'qu', '線' : 'qu', '嘯' : 'qu', '笑' : 'qu', '效' : 'qu', '号' : 'qu', '箇' : 'qu', '過' : 'qu', '禡' : 'qu', '漾' : 'qu', '宕' : 'qu', '映':'qu','敬':'qu', '諍' : 'qu', '勁' : 'qu', '徑' : 'qu', '證' : 'qu', '嶝' : 'qu', '宥' : 'qu', '候' : 'qu', '幼' : 'qu', '沁' : 'qu', '勘' : 'qu', '闞' : 'qu', '豔' : 'qu', '㮇' : 'qu', '陷' : 'qu', '鑑' : 'qu', '釅' : 'qu', '梵' : 'qu', '屋' : 'ru', '沃' : 'ru', '燭' : 'ru', '覺' : 'ru', '質' : 'ru', '術' : 'ru', '櫛' : 'ru', '物' : 'ru', '迄' : 'ru', '月' : 'ru', '沒' : 'ru', '曷' : 'ru', '末' : 'ru', '鎋' : 'ru', '黠' : 'ru', '屑' : 'ru', '薛' : 'ru', '藥' : 'ru', '鐸' : 'ru', '陌' : 'ru', '麥' : 'ru', '昔' : 'ru', '錫' : 'ru', '職' : 'ru', '德' : 'ru', '緝' : 'ru', '合' : 'ru', '盍' : 'ru', '葉' : 'ru', '怗' : 'ru', '洽' : 'ru', '狎' : 'ru', '業' : 'ru', '乏' : 'ru'}
+zimu_list = ['ri', 'lai', 'yu', 'xia', 'xiao', 'ying', 'xieshan', 'xinshen', 'congchuang', 'qingchuan', 'jingzhao', 'yi', 'qun', 'qi', 'jian', 'niniang', 'dingcheng', 'touche', 'duanzhi', 'mingwei', 'bingfeng', 'pangfu', 'bangfei']
+
+import pandas as pd
+import numpy as np
+import networkx as nx
+import matplotlib.pyplot as plt
+from pylab import *
+from tabulate import tabulate
+
+path = XXX
+df = pd.read_excel(f'{path}2.xlsx', header = 0)
+free_variant_list = {}
+intermediate_phone_list = {}
+finalized_phone_list = {}
+free_variant_save =  open(f'{path}free_variant_list.html', 'w', encoding='UTF-8')
+finalized_phone_save = open(f'{path}finalized_phone_list.html', 'w', encoding='UTF-8')
+distribution_statistics_save = open(f'{path}distribution_statistics.html', 'w', encoding='UTF-8')
+
+##########
+########## Code 1
+##########
+
+for openness in ['O', 'C']:
+    for rhyme in rhyme_tone_correspondences.keys():
+        sub_df = df.loc[(df['openness_proper'] == openness)&(df['precise_rhyme'] == rhyme)]
+        x = sub_df['sig0']
+        y = sub_df['sig2']
+        chart_num = []
+        for z in list(set(sub_df['yunjing_num'])):
+            chart_num.append(z)
+        chart_num.sort()
+        graph_df = pd.DataFrame({'from':x, 'to':y})
+        G = nx.from_pandas_edgelist(graph_df, 'from', 'to')
+
+##########
+########## Code 2
+##########
+
+        count = 1
+        comparative_list = []
+        for graph in list(G.subgraph(c) for c in nx.connected_components(G)):
+            empty_frame = pd.DataFrame(columns = {'sig0':'', 'grade':'', 'zimu_big_row':''}, index=[0])
+            graph_nodes = list(graph.nodes())
+            for node in graph_nodes:
+                sig0_to_rhyme = sub_df.loc[df['sig0'] == node]
+                empty_frame = pd.concat([empty_frame, sig0_to_rhyme.iloc[:,[6,5,9,2]]])
+                general_sig0_grade_and_zimu = empty_frame.reset_index(drop=True).iloc[1:,:]
+            rhyme_table = pd.DataFrame(columns = zimu_list)
+            for sub_list in general_sig0_grade_and_zimu.groupby('precise_rhyme'):
+                for i in sub_list[1].index:
+                    x = sub_list[1].loc[i, 'sig0']
+                    y = sub_list[1].loc[i, 'grade']
+                    z = sub_list[1].loc[i, 'zimu_big_row']
+                    rhyme_table.loc[y, z] = x + f'|{count}|'
+                    rhyme_table.sort_index(inplace=True)
+                tone = rhyme_tone_correspondences[rhyme]
+                free_variant_list[f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num} — VARIANT-|{count}|)'] = rhyme_table
+                string = f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num} — VARIANT-|{count}|)' + tabulate(rhyme_table.replace(np.nan, None), missingval='〇', headers=zimu_list, tablefmt='html')
+                free_variant_save.write(string)
+                count += 1
+                comparative_list.append(rhyme_table)
+
+##########
+########## Code 3
+##########
+
+        if len(comparative_list) == 1:
+            intermediate_phone_list[f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {rhyme_table.index.values.tolist()})'] =  rhyme_table
+            finalized_phone_list[f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {rhyme_table.index.values.tolist()})'] =  rhyme_table
+            string = f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {rhyme_table.index.values.tolist()})' + tabulate(rhyme_table.replace(np.nan, None), missingval='〇', headers=zimu_list, tablefmt='html')
+            finalized_phone_save.write(string)
+
+##########
+########## Code 4
+##########
+
+        else:
+            comparative_list = sorted(comparative_list, key=lambda x: len(x.index), reverse=True)
+            result_groups = []
+            while comparative_list:
+                current_group = [comparative_list.pop(0)]
+                i = 0
+                while i < len(comparative_list):
+                    if not set(current_group[0].index).isdisjoint(set(comparative_list[i].index)):
+                        current_group.append(comparative_list.pop(i))
+                    else:
+                        i += 1
+                result_groups.append(current_group)
+
+##########
+########## Code 5
+##########
+
+            for group in result_groups:
+                if len(group) == 1:
+                    finalized_phone_list[f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {group[0].index.values.tolist()})'] =  group[0]
+                    string = f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {group[0].index.values.tolist()})' + tabulate(group[0].replace(np.nan, None), missingval='〇', headers=zimu_list, tablefmt='html')
+                    finalized_phone_save.write(string)
+                else:
+                    index_values = [1,2,3,4]
+                    empty_data = pd.DataFrame(columns = zimu_list, index = index_values)
+                    cell_values = {}
+                    for member in group:
+                        for row_index in member.index:
+                            for col in member.columns:
+                                cell_loc = tuple([row_index, col])
+                                if cell_loc not in cell_values:
+                                    cell_values[cell_loc] = []
+                                cell_values[cell_loc].append(member.loc[row_index, col])
+                                empty_data.loc[row_index, col] = ''.join(value for value in cell_values[cell_loc] if pd.notna(value))
+                                overlapping = re.search('[^|]*|[^|]*|[^|]*|[^|]*|', empty_data.loc[row_index, col]).group(0)
+                                if overlapping != None:
+                                    continue
+                                else: 
+                                    print('here is an overlapping case:', f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {merged_data.index.values.tolist()})', empty_data.loc[row_index, col])
+                    merged_data = empty_data.sort_index()
+                    merged_data.dropna(axis='index', how='all', inplace=True)
+                    merged_data.replace('', pd.NA, inplace=True)
+                    finalized_phone_list[f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {merged_data.index.values.tolist()})'] =  merged_data
+                    string = f'(Openness = {openness}, Rhyme = {rhyme}, Tone = {tone}, Chart = {chart_num}: Grade = {merged_data.index.values.tolist()})' + tabulate(merged_data.replace(np.nan, None), missingval='〇', headers=zimu_list, tablefmt='html')
+                    finalized_phone_save.write(string)
+
+##########
+########## Code 6
+##########
+
+summary_dfs = {}
+transformed_list = {}
+enlarged_df = df
+for x, y in finalized_phone_list.items():
+    openness = re.search('(?<=Openness = )[^,]+(?=,)', x).group(0)
+    rhyme = re.search('(?<=Rhyme = )[^,]+(?=,)', x).group(0)
+    tone = re.search('(?<=Tone = )[^:]+(?=:)', x).group(0)
+    grouped_grades = re.search('(?<=Grade = \[)[^\[\]]+(?=\])', x).group(0)
+    grade_list = tuple(grouped_grades.split(', '))
+    if grade_list not in summary_dfs:
+        summary_dfs[grade_list] = []
+    summary_dfs[grade_list].append(y)
+    for grade_number in grade_list:
+        for zimu_member in zimu_list:
+            element = y.loc[(int(grade_number), zimu_member)]
+            if pd.isna(element) == True:
+                continue
+            else:
+                syllable = re.search('[^|](?=|)', element).group(0)
+                enlarged_df.loc[((enlarged_df['openness_proper']==openness) & (enlarged_df['precise_rhyme']==rhyme) & (enlarged_df['grade']==int(grade_number)) & (enlarged_df['zimu_big_row']==zimu_member)), 'grouped_grades'] = grouped_grades
+enlarged_df.to_excel(f'{path}3.xlsx', index=False)
+for x in summary_dfs.keys():
+    y = summary_dfs[x]
+    if len(y) == 1:
+        z = y[0]
+        z[z.notnull()] = 1
+        string = f'{x}' + tabulate(z.replace(np.nan, None), missingval='0', headers=zimu_list, tablefmt='html')
+        distribution_statistics_save.write(string)
+    else:
+        start = y[0]
+        start[start.notnull()] = 1
+        for i in range(1,len(y)):
+            z = y[i]
+            z[z.notnull()] = 1
+            start = start.add(z, fill_value=0)
+        string = f'{x}' + tabulate(start.replace(np.nan, None), missingval='0', headers=zimu_list, tablefmt='html')
+        distribution_statistics_save.write(string)
+
+##########
+########## Manual adjustment of G' (after one has studied 'distribution_statistics.html')
+########## 
+
+new_df = pd.read_excel(f'{path}3.xlsx', header = 0)
+new_df.loc[new_df['grouped_grades']=='1', 'division'] = 'I'
+new_df.loc[new_df['grouped_grades']=='2', 'division'] = 'II'
+new_df.loc[new_df['grouped_grades']=='4', 'division'] = 'IV'
+new_df.loc[new_df['grouped_grades']=='2, 3, 4', 'division'] = 'III'
+new_df.loc[((new_df['grouped_grades']=='2, 3, 4') & (new_df['grade']==4) & ((new_df['zimu_big_row']=='bangfei')|(new_df['zimu_big_row']=='pangfu')|(new_df['zimu_big_row']=='bingfeng')|(new_df['zimu_big_row']=='mingwei')|(new_df['zimu_big_row']=='jian')|(new_df['zimu_big_row']=='qi')|(new_df['zimu_big_row']=='qun')|(new_df['zimu_big_row']=='yi')|(new_df['zimu_big_row']=='ying')|(new_df['zimu_big_row']=='xiao')|(new_df['zimu_big_row']=='xia'))), 'division'] = 'A'
+new_df.loc[new_df['grouped_grades']=='3, 4', 'division'] = 'III'
+new_df.loc[((new_df['grouped_grades']=='3, 4') & (new_df['grade']==4) & ((new_df['zimu_big_row']=='bangfei')|(new_df['zimu_big_row']=='pangfu')|(new_df['zimu_big_row']=='bingfeng')|(new_df['zimu_big_row']=='mingwei')|(new_df['zimu_big_row']=='jian')|(new_df['zimu_big_row']=='qi')|(new_df['zimu_big_row']=='qun')|(new_df['zimu_big_row']=='yi')|(new_df['zimu_big_row']=='ying')|(new_df['zimu_big_row']=='xiao')|(new_df['zimu_big_row']=='xia'))), 'division'] = 'A'
+new_df.loc[new_df['grouped_grades']=='3', 'division'] = 'III'
+new_df.loc[(new_df['grouped_grades']=='1, 2, 3, 4'), 'division'] = 'III'
+new_df.loc[((new_df['grouped_grades']=='1, 2, 3, 4') & (new_df['grade']==1)), 'division'] = 'I'
+new_df.loc[((new_df['grouped_grades']=='1, 2, 3, 4') & ((new_df['sig0']=='豐')|(new_df['sig0']=='夢')|(new_df['sig0']=='鳳')|(new_df['sig0']=='賵')|(new_df['sig0']=='諷'))), 'division'] = 'I' # or III
+new_df.loc[new_df['grouped_grades']=='1, 3', 'division'] = 'I'
+new_df.loc[new_df['grouped_grades']=='2, 4', 'division'] = 'III'
+new_df.loc[new_df['grouped_grades']=='2, 3', 'division'] = 'III'
+new_df.loc[((new_df['grouped_grades']=='2, 3') & (new_df['grade']==2) & (new_df['precise_rhyme']=='映')), 'division'] = 'II'
+new_df.loc[((new_df['grouped_grades']=='2, 3') & (new_df['grade']==2) & (new_df['precise_rhyme']=='映') &((new_df['sig1']=='生')|(new_df['sig1']=='㵾'))), 'division'] = 'III'
+new_df.loc[((new_df['grouped_grades']=='2, 3') & (new_df['grade']==2) & (new_df['precise_rhyme']=='陌')), 'division'] = 'II'
+new_df.loc[((new_df['grouped_grades']=='2, 3') & (new_df['grade']==2) & (new_df['precise_rhyme']=='陌') &((new_df['sig1']==' 𡩡')|(new_df['sig1']=='柵'))), 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='諄', 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='準', 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='稕', 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='術', 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='臻', 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='櫛', 'division'] = 'III'
+new_df.loc[((new_df['precise_rhyme']=='清') & (new_df['openness_proper']=='C')), 'division'] = 'A'
+new_df.loc[((new_df['precise_rhyme']=='清') & (new_df['openness_proper']=='C') & (new_df['sig0']=='營')), 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='麌', 'division'] = 'III'
+new_df.loc[((new_df['precise_rhyme']=='靜') & (new_df['openness_proper']=='C')), 'division'] = 'A'
+new_df.loc[((new_df['precise_rhyme']=='靜') & (new_df['openness_proper']=='C') & (new_df['sig0']=='潁')), 'division'] = 'III'
+new_df.loc[((new_df['precise_rhyme']=='勁') & (new_df['openness_proper']=='C')), 'division'] = 'A'
+new_df.loc[((new_df['precise_rhyme']=='質') & (new_df['openness_proper']=='C')), 'division'] = 'III'
+new_df.loc[((new_df['precise_rhyme']=='昔') & (new_df['openness_proper']=='C')), 'division'] = 'A'
+new_df.loc[((new_df['precise_rhyme']=='昔') & (new_df['openness_proper']=='C') & (new_df['sig0']=='役')), 'division'] = 'III'
+new_df.loc[new_df['precise_rhyme']=='幽', 'division'] = 'A'
+new_df.to_excel(f'{path}3.xlsx', index=False)
+
+##########
+########## Code 7
+########## 
+
+df = pd.read_excel(f'{path}3.xlsx', header = 0)
+distribution_statistics_save = open(f'{path}distribution_statistics_1.html', 'w', encoding='UTF-8')
+free_variant_save =  open(f'{path}free_variant_list_1.html', 'w', encoding='UTF-8')
+unified_list = {}
+
+for initial in zimu_list:
+    variant_count = 1
+    data_2 = df.loc[(df['zimu_big_row'] == initial)]
+    data_2 = data_2[~data_2['sig0'].str.contains('奔')] # deleting the interrupting polyphonic character for 'bangfei'
+    data_2 = data_2[~data_2['sig0'].str.contains('暴')] # for 'bingfeng'
+    data_2 = data_2[~data_2['sig0'].str.contains('瞢')] # for 'mingwei'
+    data_2 = data_2[~data_2['sig0'].str.contains('窒')] # for 'duanzhi'
+    data_2 = data_2[~data_2['sig0'].str.contains('朓')] # for 'touche'
+    data_2 = data_2[~data_2['sig0'].str.contains('妠')] # for 'niniang'
+    data_2 = data_2[~data_2['sig0'].str.contains('潛')] # for 'congchuang'
+    data_2 = data_2[~data_2['sig0'].str.contains('些')] # for 'xinshen'
+    data_2 = data_2[~data_2['sig0'].str.contains('省')] # for 'xinshen'
+    data_2 = data_2[~data_2['sig0'].str.contains('埯')] # for 'ying'
+    data_2 = data_2[~data_2['sig0'].str.contains('虺')] # for 'xiao'
+    x = data_2['sig0']
+    y = data_2['sig1']
+    graph_df = pd.DataFrame({'from':x, 'to':y})
+    G = nx.from_pandas_edgelist(graph_df, 'from', 'to')
+    H = nx.draw_networkx(G, node_color=[nx.closeness_centrality(G)[i] for i in G.nodes], cmap=plt.cm.Blues, arrows=True, arrowstyle='-[', node_size=300, font_size=12, alpha=0.5, arrowsize=8)#Semantics of the bracket arrow: sig0]------sig1
+    H = nx.spectral_layout(G)
+    #plt.show()
+    count = 1
+    for graph in list(G.subgraph(c) for c in nx.connected_components(G)):
+        empty_frame = pd.DataFrame(columns = {'sig0':'', 'sig1':'', 'zimu_big_row':'', 'division':'', 'grouped_grades':'', 'grade':'', 'yunjing_num':'', 'labial_num':'', 'openness_proper':'', 'precise_rhyme':'', 'tone':''}, index=[0])
+        graph_nodes = list(graph.nodes())
+        for node in graph_nodes:
+            sig0_to_initial = data_2.loc[df['sig0']==node]
+            empty_frame = pd.concat([empty_frame, sig0_to_initial.loc[:,['sig0', 'sig1', 'zimu_big_row', 'division', 'grouped_grades', 'grade', 'yunjing_num', 'labial_num',  'openness_proper', 'precise_rhyme', 'tone']]])
+            summary = empty_frame.reset_index(drop=True).iloc[1:,:]
+        string = f'Column = {initial} — VARIANT-|{variant_count}|' + tabulate(summary.replace(np.nan, None), headers=['sig0', 'sig1', 'zimu_big_row', 'division', 'grouped_grades', 'grade', 'yunjing_num', 'labial_num',  'openness_proper', 'precise_rhyme', 'tone'], tablefmt='html')
+        free_variant_save.write(string)
+        if initial in ['mingwei', 'bingfeng', 'pangfu', 'bangfei']:
+            statistics = pd.DataFrame(columns = {'frequency':'', 'grade':'', 'division':'', 'openness_proper':'', 'labial_num':''}, index=[0])
+            for division in ['I', 'II', 'III', 'IV', 'A']:
+                x = summary.loc[(summary['division'] == division)]
+                for grade in [1, 2, 3, 4]:
+                    y = x.loc[(x['grade'] == grade)]
+                    for openness_proper in ['O', 'C']:
+                        z = y.loc[(y['openness_proper'] == openness_proper)]
+                        for labial_num in [1, 2]:
+                            a = z.loc[(z['labial_num'] == labial_num)]
+                            statistics.loc[count, 'frequency'] = len(a)
+                            statistics.loc[count, 'grade'] = grade
+                            statistics.loc[count, 'division'] = division
+                            statistics.loc[count, 'openness_proper'] = openness_proper
+                            statistics.loc[count, 'labial_num'] = labial_num
+                            count += 1
+            statistics = statistics.loc[~(statistics['frequency']==0)]
+            statistics = statistics.reset_index(drop=True)
+            string = f'Column = {initial} — VARIANT-|{variant_count}|' + tabulate(statistics.replace(np.nan, None), headers=['frequency', 'grade', 'division', 'openness_proper', 'labial_num'], tablefmt='html')
+            distribution_statistics_save.write(string)
+        else:
+            statistics = pd.DataFrame(columns = {'frequency':'', 'grade':'', 'division':''}, index=[0])
+            for division in ['I', 'II', 'III', 'IV', 'A']:
+                x = summary.loc[(summary['division'] == division)]
+                for grade in [1, 2, 3, 4]:
+                    y = x.loc[(x['grade'] == grade)]
+                    statistics.loc[count, 'frequency'] = len(y)
+                    statistics.loc[count, 'grade'] = grade
+                    statistics.loc[count, 'division'] = division
+                    count += 1
+            statistics = statistics.loc[~(statistics['frequency']==0)]
+            statistics = statistics.reset_index(drop=True)
+            string = f'Column = {initial} — VARIANT-|{variant_count}|' + tabulate(statistics.replace(np.nan, None), headers=['frequency', 'grade', 'division'], tablefmt='html')
+            distribution_statistics_save.write(string)
+        variant_count += 1
