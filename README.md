@@ -3,21 +3,18 @@ Chen, Ziche [陈子澈] & Qi Rao [饶琪]. 2024. A formalized statement of tradi
 
 
 
-########## 
-
-########## Errata (with occasional updates) | 勘误表（不定期更新）
-
-########## 
 
 
-Main text | 正文
+# Errata (with occasional updates) | 勘误表（不定期更新）
+
+## Main text | 正文
 
  p. 206: qièyù 切語 ‘cut text’ >> qièyǔ 切語 ‘cut text’
 
-References | 参考文献
+## References | 参考文献
 
  Yáng (2022): Yǔyán Yájiū >> Yǔyán Yánjiū
 
-E-(2)
+## E-(2)
 
  P, T, L, TS, TSR, K >> P, T, L, TS, (TSR), K
