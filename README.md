@@ -17,4 +17,8 @@ Chen, Ziche [陈子澈] & Qi Rao [饶琪]. 2024. A formalized statement of tradi
 
 ## E-(2)
 
- P, T, L, TS, TSR, K >> P, T, L, TS, (TSR), K
+jieng, jiek >> jieng, jiek, jeng, jek
+
+jwieng, jwiek >> jwieng, jwiek, jweng, jwek
+
+P, T, L, TS, TSR, K >> P, T, L, TS, (TSR), K
