@@ -1,4 +1,4 @@
-Chen, Ziche [陈子澈] & Qi Rao [饶琪]. 2024. A formalized statement of traditional terminology in Middle Chinese phonology [中古汉语音系传统术语的形式化陈述]. Cahiers de Linguistique Asie Orientale 53(2). 198–248. URL: https://brill.com/view/journals/clao/53/2/article-p198_3.xml
+Chen, Ziche [陈子澈] & Qi Rao [饶琪]. 2024. A formalized statement of traditional terminology in Middle Chinese phonology [中古汉语音系传统术语的形式化陈述]. _Cahiers de Linguistique Asie Orientale_ 53(2). 198–248. URL: https://brill.com/view/journals/clao/53/2/article-p198_3.xml
 
 
 
